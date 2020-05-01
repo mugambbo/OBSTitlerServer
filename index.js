@@ -16,4 +16,4 @@ app.post('/', (req, res) => {
     });
 })
 
-app.listen(port, () => console.log(`OBS titler server listening at http://localhost:${port}`));
+app.listen(port, () => console.log(`OBS server listening at http://localhost:${port}`));
